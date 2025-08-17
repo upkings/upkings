@@ -1,4 +1,4 @@
-## Hi there 👋 i`m stephen a programmer
+## Hi there 👋 i`m Stephen a programmer
 
 <!--
 **upkings/upkings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
